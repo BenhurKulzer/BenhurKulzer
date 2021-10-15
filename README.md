@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Muito prazer 🙂 Sou Desenvolvedor Front-End Pleno, apaixonado por ReactJS e React Native.
+Muito prazer 🙂 Sou Desenvolvedor Front-End Pleno, apaixonado por inovação, tecnologia e viciado em tornar o dia a dia das pessoas mais simples através da programação.
+Minha stack principal atualmente é React, React Native e NodeJS.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BenhurKulzer&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
