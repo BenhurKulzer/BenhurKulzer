@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Muito prazer 🙂 Sou Desenvolvedor Front-End, apaixonado por inovação, tecnologia e viciado em tornar o dia a dia das pessoas mais simples através da programação.
+Muito prazer 🙂 Sou Desenvolvedor Front-End & Mobile SR, apaixonado por inovação, tecnologia e viciado em tornar o dia a dia das pessoas mais simples através da programação.
 As tecnologias que utilizo atualmente são React e React Native.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BenhurKulzer&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
