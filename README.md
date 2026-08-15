@@ -9,6 +9,7 @@ I'm Benhur Külzer, a Software Engineer with 15 years of experience, specializin
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-%231C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Apollo GraphQL](https://img.shields.io/badge/apollographql-%23311C87.svg?style=for-the-badge&logo=apollographql&logoColor=white)
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23F54A2A.svg?style=for-the-badge&logo=swift&logoColor=white)
